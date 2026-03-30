@@ -9,10 +9,10 @@
 ---
 
 ## 🎓 Education
-- **NSC Certificate** – Breidbach Senior Secondary School, Qonce - EC | 2020  
-- **IT Computer Literacy Certificate** – Phoenix College, Qonce - EC | 2022  
-- **Diploma in ICT Applications Development (Incomplete)** – Durban University of Technology, Durban - KZN | 2023  
-- **Diploma in ICT Applications Development** – Cape Peninsula University of Technology, Cape Town - WC | 2024 – Present  
+- **NSC Certificate** – Breidbach Senior Secondary School, Qonce - EC | *2020*  
+- **IT Computer Literacy Certificate** – Phoenix College, Qonce - EC | *2022*  
+- **Diploma in ICT Applications Development (Incomplete)** – Durban University of Technology, Durban - KZN | *2023*  
+- **Diploma in ICT Applications Development** – Cape Peninsula University of Technology, Cape Town - WC | *2024 – Present*  
 
 ---
 
@@ -69,4 +69,4 @@ Durban University of Technology, Durban - KZN | 2023
 ---
 
 ## 🎥 Mock Interview Video
-[Watch Interview Video (Coming Soon)](https://example.com/mock-interview)
+[Watch Interview Video] (https://youtu.be/5kC0g9NcLsA)
