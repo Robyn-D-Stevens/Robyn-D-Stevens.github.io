@@ -69,12 +69,7 @@ Durban University of Technology, Durban - KZN | 2023
 ---
 
 ## 🎥 Mock Interview Video
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/5kC0g9NcLsA"
-  title="Mock Interview Video"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+
+<video width="640" height="360" controls>
+  <source src="video/Interviewss.mp4" type="video/mp4">
+</video>
