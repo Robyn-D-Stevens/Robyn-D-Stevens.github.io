@@ -101,3 +101,10 @@ Durban University of Technology, Durban - KZN | 2023
 **Nosipho Ngwenya** – Student, Durban University of Technology  
 📧 technerdnosipho@gmail.com  
 📞 +27 818 822 897
+
+---
+
+## 📹 Mock Interview Video
+<video width="640" height="360" controls>
+  <source src="video/Interviewss.mp4" type="video/mp4">
+</video>
