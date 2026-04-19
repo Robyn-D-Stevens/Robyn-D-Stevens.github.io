@@ -1,10 +1,15 @@
-# Robyn Dominique Stevens
+# Robyn Stevens
 
 ---
 
-| <img src="https://github.com/Robyn-D-Stevens/Robyn-D-Stevens.github.io/blob/main/20260218_133229(2).jpg" alt="Profile Image" width="200"/> | <strong>Applications Development Student</strong><br>📍 Parow, Western Cape<br>📧 222201789@mycput.ac.za<br>📞 +27 65 953 6191<br>🔗 <a href="https://github.com/Robyn-D-Stevens">GitHub</a><br>🔗 <a href="https://linkedin.com/in/robyn-d-stevens">LinkedIn</a> |
+## 👤 Profile
+| <img src="https://github.com/Robyn-D-Stevens/Robyn-D-Stevens.github.io/blob/main/20260218_133229(2).jpg" alt="Profile Image" width="200"/> | **Applications Development Student**  
+📍 Parow, Western Cape  
+📧 222201789@mycput.ac.za  
+📞 +27 65 953 6191  
+🔗 [GitHub](https://github.com/Robyn-D-Stevens)  
+🔗 [LinkedIn](https://linkedin.com/in/robyn-d-stevens) |
 |----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 
 ---
 
@@ -19,25 +24,43 @@
 ---
 
 ## 💻 Technical Skills
-| Languages | Web | Tools | Design |
-|-----------|-----|-------|--------|
-| Java, C# | HTML/CSS, JavaScript | MySQL, Git/GitHub, MS Suite, Visual Studio Code, Visual Studio | Figma |
+- Java  
+- C#  
+- MySQL  
+- HTML/CSS  
+- JavaScript  
+- Microsoft Office Suite  
+- Git/GitHub  
+- Visual Studio Code  
+- Visual Studio  
+- Figma  
 
 ---
 
 ## 🏆 Experience
-| Role | Organization | Location | Duration | Key Contributions |
-|------|--------------|----------|----------|------------------|
-| Soundboard & Media Operator (Volunteer) | Bethany Emmanuel Baptist Church | Qonce - EC | 2022 – Present | Operated soundboard and projector media weekly; ensured smooth technical proceedings during services and events |
-| Class Representative & Collaboration | Durban University of Technology | Durban - KZN | 2023 | Liaised between 300+ students, IT department, and faculty; initiated and coordinated group assignments |
+**Soundboard and Media Operator – Volunteer**  
+Bethany Emmanuel Baptist Church, Qonce - EC | 2022 – Present  
+- Operated soundboard and managed projector media weekly  
+- Ensured smooth technical proceedings during services and events  
+
+**Class Representative and Collaboration**  
+Durban University of Technology, Durban - KZN | 2023  
+- Liaised between 300+ students, IT department, and faculty  
+- Applied leadership and project management skills by initiating, organizing, and coordinating group assignments  
 
 ---
 
 ## 📂 Projects
-| Project | Tech Stack | Contributions |
-|---------|------------|---------------|
-| GOTS Car Rental System | C# | Developed system using Stream I/O; refined logic and interface; contributed to subsystem documentation; maintained GitHub backup repository |
-| CPUT Stays Student Accommodation | HTML, CSS, JavaScript, MySQL, PHP | Led project coordination; structured documentation and guided communication; assisted in database schema design and SQL integration |
+**GOTS Car Rental System | C#**  
+- Developed a car rental system in C# using Stream I/O for data storage and retrieval  
+- Refined system logic and interface with lead developer to ensure usability and accuracy  
+- Contributed to subsystem development and documentation  
+- Maintained reliability by creating a GitHub backup repository  
+
+**CPUT Stays Student Accommodation | HTML, CSS, JavaScript, MySQL, PHP**  
+- Led the project, coordinated tasks, and ensured milestones were met  
+- Structured documentation and guided team communication  
+- Assisted in database schema design and SQL integration for student accommodation records and booking workflows  
 
 ---
 
@@ -49,3 +72,7 @@
 
 ---
 
+## 🎥 Mock Interview Video
+<video width="640" height="360" controls>
+  <source src="video/Interviewss.mp4" type="video/mp4">
+</video>
