@@ -83,13 +83,13 @@ Durban University of Technology, Durban - KZN | 2023
 - Refined system logic and interface with lead developer to ensure usability and accuracy  
 - Contributed to subsystem development and documentation  
 - Maintained reliability by creating a GitHub backup repository  
-- Repo: https://github.com/Robyn-D-Stevens/GOTS-Car-Maintenance-App-APDP1
+🔗 <a href="https://github.com/Robyn-D-Stevens/GOTS-Car-Maintenance-App-APDP1">GOTS Car Rental App</a><br>
 
 **CPUT Stays Student Accommodation | HTML, CSS, JavaScript, MySQL, PHP**  
 - Led the project, coordinated tasks, and ensured milestones were met  
 - Structured documentation and guided team communication  
 - Assisted in database schema design and SQL integration for student accommodation records and booking workflows  
-- Repo: https://github.com/Robyn-D-Stevens/MySQL-for-CPUT_Stays
+🔗 <a href="https://github.com/Robyn-D-Stevens/MySQL-for-CPUT_Stays">CPUT Stays Repo (MySQL Base)</a><br>
   
 ---
 
