@@ -2,11 +2,10 @@
 
 ---
 
-<!-- Profile Section -->
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Robyn-D-Stevens/Robyn-D-Stevens.github.io/blob/main/20260218_133229(2).jpg" alt="Profile Image" width="200"/>
+      <img src="20260218_133229(2).jpg" alt="Profile Image" width="200"/>
     </td>
     <td>
       <strong>Applications Development Student</strong><br>
