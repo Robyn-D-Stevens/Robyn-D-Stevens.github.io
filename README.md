@@ -4,6 +4,8 @@
 <tr>
 <td width="35%" valign="top">
 
+<img src="20260218_133229(2).jpg" alt="Robyn Dominique Stevens" width="100%" style="border-radius:4px; margin-bottom:12px;" />
+
 **APPLICATIONS DEVELOPMENT STUDENT**
 
 📞 +27 65 953 6191  
