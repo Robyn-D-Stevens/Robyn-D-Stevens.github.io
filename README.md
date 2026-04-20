@@ -1,3 +1,8 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+
 # Robyn Dominique Stevens
 
 ---
@@ -108,3 +113,8 @@ Durban University of Technology, Durban - KZN | 2023
 <video width="640" height="360" controls>
   <source src="video/Interviewss.mp4" type="video/mp4">
 </video>
+
+## 🪞Mock Interview and GitHub Pages Reflection
+While completing the interview, it seemed easy in theory and to the point regarding the STAR method. However, in practice it was difficult because of overlapping information and the fact that I had a lot to say that was on topic. Initially, I had a 7-minute video that shared many of my opinions and experiences. I later figured I could reduce this and managed to get it under 3 minutes, which made me realize how short an interview can be. It did not truly feel like I was able to market myself properly, which might be a hindrance in future but it was needed to workshop that skill. Ultimately, this experience has had its pros and cons and will definitely prepare me for future interviews.
+
+Regarding GitHub Pages, it was fairly simple to deploy to and do in markdown. The only issues I had were figuring out the tables and formatting so that the page would look better and feel more like a CV given the assignment. However, I managed to figure it out and get everything needed into it per the brief. Learning Markdown has refreshed my knowledge of HTML tags and structure, given that I had to use it to add some tables that conflicted with some of my formatting and text. I managed to pull what I wanted off and it looks decent.
