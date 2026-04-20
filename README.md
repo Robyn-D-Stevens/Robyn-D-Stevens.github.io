@@ -1,4 +1,3 @@
-# Robyn Dominique Stevens
 
 ---
 
