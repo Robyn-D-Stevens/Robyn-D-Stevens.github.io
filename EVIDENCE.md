@@ -8,7 +8,7 @@
 - **Official Monthly Report & Attendance Register (July 2026):** Verifies onboarding, initial workplace integration, setting up communication channels, and setting up local development tools on Windows/WSL.
   * Signed and verified by host mentor: **Dante Swartz**.
   
-  ![July 2026 Internship Report](images/Screenshot_2026-10-24_204342.png)
+  ![July 2026 Internship Report](images/Screenshot%202026-10-24%20204342.png)
 
 ---
 
@@ -16,7 +16,7 @@
 - **Official Monthly Report & Attendance Register (August 2026):** Verifies hands-on practice with automated web testing suites, Python, Behave, Toolium, Selenium, and test script execution.
   * Signed and verified by host mentor: **Dante Swartz**.
 
-  ![August 2026 Internship Report](images/Screenshot_2026-10-24_204636.png)
+  ![August 2026 Internship Report](images/Screenshot%202026-10-24%20204636.png)
 
 ---
 
@@ -24,7 +24,7 @@
 - **Official Monthly Report & Attendance Register (September 2026):** Tracks extended full-time workdays during university recess, Java/Spring Boot integration, and test automation builds.
   * Signed and verified by host mentor: **Dante Swartz**.
 
-  ![September 2026 Internship Report](images/Screenshot_2026-10-24_204710.png)
+  ![September 2026 Internship Report](images/Screenshot%202026-10-24%20204710.png)
 
 ---
 
@@ -32,4 +32,4 @@
 - **Official Monthly Report & Attendance Register (October 2026):** Documents Docker containerisation sprints (`Dockerfile` and `docker-compose`), task completions, and final evidence verification.
   * Not yet signed as signing occurs at the end of the month *.
 
-  ![October 2026 Internship Report](images/Screenshot_2026-10-24_204828.png)
+  ![October 2026 Internship Report](images/Screenshot%202026-10-24%20204828.png)
