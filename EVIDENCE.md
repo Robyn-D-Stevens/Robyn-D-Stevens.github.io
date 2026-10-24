@@ -9,7 +9,7 @@
   * Signed and verified by host mentor: **Dante Swartz**.
   
   <p align="center">
-    <img src="./Screenshot_2026-10-24_204342.png" alt="July 2026 Internship Report" width="650"/>
+    <img src="./images/Screenshot_2026-10-24_204342.png" alt="July 2026 Internship Report" width="650"/>
   </p>
 
 ---
@@ -19,7 +19,7 @@
   * Signed and verified by host mentor: **Dante Swartz**.
 
   <p align="center">
-    <img src="./Screenshot_2026-10-24_204636.png" alt="August 2026 Internship Report" width="650"/>
+    <img src="./images/Screenshot_2026-10-24_204636.png" alt="August 2026 Internship Report" width="650"/>
   </p>
 
 ---
@@ -29,7 +29,7 @@
   * Signed and verified by host mentor: **Dante Swartz**.
 
   <p align="center">
-    <img src="./Screenshot_2026-10-24_204710.png" alt="September 2026 Internship Report" width="650"/>
+    <img src="./images/Screenshot_2026-10-24_204710.png" alt="September 2026 Internship Report" width="650"/>
   </p>
 
 ---
@@ -39,5 +39,5 @@
   * Not yet signed as signing occurs at the end of the month *.
 
   <p align="center">
-    <img src="./Screenshot_2026-10-24_204828.png" alt="October 2026 Internship Report" width="650"/>
+    <img src="./images/Screenshot_2026-10-24_204828.png" alt="October 2026 Internship Report" width="650"/>
   </p>
