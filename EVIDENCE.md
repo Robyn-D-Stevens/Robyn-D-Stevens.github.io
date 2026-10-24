@@ -9,7 +9,7 @@
   * Signed and verified by host mentor: **Dante Swartz**.
   
   <p align="center">
-    <img src="./images/Screenshot_2026-10-24_204342.png" alt="July 2026 Internship Report" width="650"/>
+    <img src="/images/Screenshot_2026-10-24_204342.png" alt="July 2026 Internship Report" width="650"/>
   </p>
 
 ---
@@ -19,7 +19,7 @@
   * Signed and verified by host mentor: **Dante Swartz**.
 
   <p align="center">
-    <img src="./images/Screenshot_2026-10-24_204636.png" alt="August 2026 Internship Report" width="650"/>
+    <img src="/images/Screenshot_2026-10-24_204636.png" alt="August 2026 Internship Report" width="650"/>
   </p>
 
 ---
