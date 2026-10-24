@@ -10,10 +10,9 @@
 * **Primary Channels:** 
   * **Microsoft Teams:** Main communication platform and project meetings.
   * **Telegram:** Quick team syncs.
-  * **Kintai:** Daily time tracking and timesheet management.
+  * **Kimai:** Daily time tracking and timesheet management.
   * **Outlook:** Internal scheduling and communication.
 * **Daily Sync Schedule:** 
-  * **Dev Scrum:** 09:00 - 09:15 daily
   * **Daily Scrum:** 09:15 - 09:30 daily
 * **Response Times:** Facilitator responses to queries range from immediate to one hour.
 
